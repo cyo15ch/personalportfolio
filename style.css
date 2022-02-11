@@ -451,7 +451,7 @@ body {
     color: #6b96be;
   }
   .about .image {
-    background: url("../img/me.jpg") center center no-repeat;
+    background: url(https://picsum.photos/499/499); center center no-repeat;
     background-size: cover;
     min-height: 400px;
   }
@@ -885,10 +885,10 @@ body {
     color: #3c6387;
   }
   .contact .social-links {
-    padding-bottom: 20px;
+    padding-bottom: 25px;
   }
   .contact .social-links a {
-    font-size: 18px;
+    font-size: 20px;
     display: inline-block;
     background: #fff;
     color: #d43076;
@@ -897,8 +897,8 @@ body {
     margin-right: 4px;
     border-radius: 50%;
     text-align: center;
-    width: 36px;
-    height: 36px;
+    width: 30px;
+    height: 30px;
     transition: 0.3s;
     border: 1px solid #d43076;
   }
