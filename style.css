@@ -885,7 +885,7 @@ body {
     color: #3c6387;
   }
   .contact .social-links {
-    padding-bottom: 25px;
+    padding-bottom: 20px;
   }
   .contact .social-links a {
     font-size: 20px;
@@ -897,8 +897,8 @@ body {
     margin-right: 4px;
     border-radius: 50%;
     text-align: center;
-    width: 30px;
-    height: 30px;
+    width: 36px;
+    height: 36px;
     transition: 0.3s;
     border: 1px solid #d43076;
   }
